@@ -130,4 +130,5 @@ Shows communication skills via Gamma report & PPT
 Clear documentation & readable code
 
 Industry-ready approach to solving business problems
-
+The image of the Dashboard : 
+![image alt](https://github.com/DivyaMuskan/Customer_behavior_analysis/blob/c4ab441dfecaaccd03d4adc434ad3b245a4af7b4/Screenshot%202025-12-06%20125936.png)
