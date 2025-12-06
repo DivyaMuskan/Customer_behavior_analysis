@@ -131,4 +131,4 @@ Clear documentation & readable code
 
 Industry-ready approach to solving business problems
 The image of the Dashboard : 
-![image alt](https://github.com/DivyaMuskan/Customer_behavior_analysis/blob/c4ab441dfecaaccd03d4adc434ad3b245a4af7b4/Screenshot%202025-12-06%20125936.png)
+![image alt](https://github.com/DivyaMuskan/Customer_behavior_analysis/blob/b1c447798e3404932375371f3d164dad528a3fd1/Screenshot%202025-12-06%20125936.png)
